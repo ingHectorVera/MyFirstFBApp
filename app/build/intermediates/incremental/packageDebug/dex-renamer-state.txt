@@ -1,0 +1,7 @@
+#Wed Oct 12 12:10:47 EDT 2016
+base.0=C\:\\Users\\User\\Documents\\Mobile_Apps\\Projects\\MyFirstFBApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b2942bf48e49503cf1e363e8deb5619d180a3968
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\User\\Documents\\Mobile_Apps\\Projects\\MyFirstFBApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ba5b4d9a779fa4d3638257faaf92494a409a4427\\classes.dex
+base.1=C\:\\Users\\User\\Documents\\Mobile_Apps\\Projects\\MyFirstFBApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ba5b4d9a779fa4d3638257faaf92494a409a4427
+file.0=C\:\\Users\\User\\Documents\\Mobile_Apps\\Projects\\MyFirstFBApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b2942bf48e49503cf1e363e8deb5619d180a3968\\classes.dex
